@@ -1,0 +1,114 @@
+body
+{
+    background-color: antiquewhite;
+}
+
+nav
+{
+    padding-top: 2px;
+    padding-bottom: 1px;
+    background-color: white;
+    border: 100px;
+    text-align: right;
+    font-family:cursive;
+}
+
+.nav a
+{
+    padding-right: 15px;
+    text-decoration: none;
+    color: black;
+}
+
+.nav a:hover
+{
+    color: yellow;
+}
+
+.navmat
+{
+    padding-left: 2px;
+}
+
+.bio
+{
+    padding-top: 40px;
+    padding-bottom: 35px;
+    font-family:cursive;
+    background-color: black;
+}
+
+.bio img
+{
+    width: 250px;
+    height: 250px;
+    border-radius:50%;
+}
+
+.bio h1
+{
+    font-size: 2.5em;
+    padding-left: 150px;
+    padding-right: 300px;
+    color: white;
+}
+
+.bio p
+{
+    font-size: 1em;
+    padding-left: 150px;
+    padding-right: 300px;
+    color: white;
+}
+
+.bio text
+{
+    font-family:cursive;
+    padding: 5px;
+    padding-right: 8px;
+    background-color:white;
+    color: black;
+    border-radius:5px;
+    
+}
+
+.bio a
+{
+    text-decoration: none;
+    color: black;
+}
+
+.bio a:hover
+{
+    color: yellow;
+}
+
+.head
+{
+    padding-top: 1px;
+    padding-bottom: 1px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.about
+{
+    padding:10px;
+    background-color: white;
+    color: black;
+}
+
+.about p
+{
+    font-size: 1.5em;
+    font-family:cursive;
+    padding-right: 30px;
+    text-align: left;
+}
+
+.about img
+{
+    width: 50px;
+    height: 50px;
+}
