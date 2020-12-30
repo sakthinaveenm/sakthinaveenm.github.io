@@ -1,6 +1,6 @@
 body
 {
-    background-color: antiquewhite;
+    background-color:skyblue;
 }
 
 nav
@@ -22,7 +22,7 @@ nav
 
 .nav a:hover
 {
-    color: yellow;
+   color: deepskyblue;
 }
 
 .navmat
@@ -80,7 +80,7 @@ nav
 
 .bio a:hover
 {
-    color: yellow;
+    color: deepskyblue;
 }
 
 .head
@@ -117,6 +117,5 @@ nav
 {
     background-color: white;
     padding: 10px;
-    font-size:1.5em;
-    font-family: serif;
+    padding-bottom: 40px;
 }
