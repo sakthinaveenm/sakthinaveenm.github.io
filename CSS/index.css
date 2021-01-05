@@ -119,3 +119,8 @@ nav
     padding: 10px;
     padding-bottom: 40px;
 }
+
+.bio text:hover
+{
+    background-color: yellow;
+}
