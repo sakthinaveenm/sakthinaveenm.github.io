@@ -1,5 +1,7 @@
 body
 {
+    font-family:Tahoma,Geneva,sans-serif;
+	font-weight:400;
     background-color:skyblue;
 }
 
@@ -10,7 +12,6 @@ nav
     background-color: white;
     border: 100px;
     text-align: right;
-    font-family:cursive;
 }
 
 .nav a
@@ -34,14 +35,13 @@ nav
 {
     padding-top: 40px;
     padding-bottom: 35px;
-    font-family:cursive;
     background-color: black;
 }
 
 .bio img
 {
-    width: 250px;
-    height: 250px;
+    width: 35%;
+    height: 30%;
     border-radius:50%;
 }
 
@@ -63,7 +63,6 @@ nav
 
 .bio text
 {
-    font-family:cursive;
     padding: 5px;
     padding-right: 8px;
     background-color:white;
@@ -102,7 +101,6 @@ nav
 .about p
 {
     font-size: 1.5em;
-    font-family:cursive;
     padding-right: 30px;
     text-align: left;
 }
