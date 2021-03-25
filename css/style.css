@@ -1,0 +1,34 @@
+.bg-color-black{
+    background-color: black;
+    color: white;
+}
+.button-style-custom{
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid yellow;
+    background-color:transparent;
+    color: blue;
+}
+.button-style-custom:hover{
+    background-color:white;
+    color: black;
+    font-size: larger;
+    border: 5px solid green;
+}
+.nav-items-float-right{
+    float:right;
+    padding-right:10px;
+}
+.blink_me
+{
+    animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker{
+    50% {
+        opacity: 0;
+    }
+}
+code{
+    color: green;
+}
